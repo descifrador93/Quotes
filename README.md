@@ -23,3 +23,5 @@ cd Quotes
 ```
 python quotes.py
 ```
+
+**You can make 180 requests per minute per IP**
